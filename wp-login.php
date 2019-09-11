@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Inloggen &lsaquo; Jeugdalpha Papendrecht &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://rickvandijk1.github.io/JeugdAlphaTest/wp-includes/css/dashicons.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://rickvandijk1.github.io/JeugdAlphaTest/wp-includes/css/buttons.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://rickvandijk1.github.io/JeugdAlphaTest/wp-admin/css/forms.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://rickvandijk1.github.io/JeugdAlphaTest/wp-admin/css/l10n.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://rickvandijk1.github.io/JeugdAlphaTest/wp-admin/css/login.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-includes/css/dashicons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-includes/css/buttons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-admin/css/forms.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-admin/css/l10n.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-admin/css/login.min.css?ver=5.2.3' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://nl.wordpress.org/">Mogelijk gemaakt door WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://rickvandijk1.github.io/JeugdAlphaTest/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Gebruikersnaam of e-mailadres<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://rickvandijk1.github.io/JeugdAlphaTest/wp-login.php?action=lostpassword">Wachtwoord vergeten?</a>
+					<a href="http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/wp-login.php?action=lostpassword">Wachtwoord vergeten?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://rickvandijk1.github.io/JeugdAlphaTest/">
+			<p id="backtoblog"><a href="http://localhost/https:/rickvandijk1.github.io/JeugdAlphaTest/">
 		&larr; Terug naar Jeugdalpha Papendrecht	</a></p>
 			
 	</div>
