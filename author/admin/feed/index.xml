@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Jeugdalpha Papendrecht</title>
+	<atom:link href="/https://rickvandijk1.github.io/JeugdAlphaTest/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://rickvandijk1.github.io/JeugdAlphaTest</link>
+	<description>En nog een WordPress site</description>
+	<lastBuildDate>Wed, 11 Sep 2019 21:33:36 +0000</lastBuildDate>
+	<language>nl</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+	<item>
+		<title>Hallo wereld.</title>
+		<link>/https://rickvandijk1.github.io/JeugdAlphaTest/2019/09/11/hallo-wereld/</link>
+				<comments>/https://rickvandijk1.github.io/JeugdAlphaTest/2019/09/11/hallo-wereld/#comments</comments>
+				<pubDate>Wed, 11 Sep 2019 21:33:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Geen categorie]]></category>
+
+		<guid isPermaLink="false">/https://rickvandijk1.github.io/JeugdAlphaTest/?p=1</guid>
+				<description><![CDATA[Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het, start dan met schrijven!]]></description>
+								<content:encoded><![CDATA[
+<p>Welkom bij WordPress. Dit is je eerste bericht. Bewerk of verwijder het, start dan met schrijven!</p>
+]]></content:encoded>
+							<wfw:commentRss>/https://rickvandijk1.github.io/JeugdAlphaTest/2019/09/11/hallo-wereld/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
